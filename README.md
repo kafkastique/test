@@ -1,10 +1,10 @@
+Link: https://kafkastique.github.io/test/
+
 # Module 2 Coding Assignment
 
 Coursera course: [HTML, CSS, and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
 
 Woo-hoo! You get to do some coding! Exciting!
-
-Link: https://kafkastique.github.io/test/
 
 **Time to complete:** 1-2 hours. It may take you less time than that if you've absorbed the material in this module well.
 
